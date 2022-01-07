@@ -1,2 +1,2 @@
-# UCB-Module-7
+# ETF Analyzer
 Financial Databases with SQL
